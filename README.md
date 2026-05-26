@@ -87,12 +87,6 @@ I'm a passionate **Full Stack Developer** specializing in **enterprise integrati
 - ✅ **Automation & Workflows** (Business Process Optimization)
 - ✅ **Frontend Development** (Responsive Design, User Experience)
 
----
-
-## 📊 GitHub Statistics
-
-
----
 
 ## 🏆 Achievements & Contributions
 
