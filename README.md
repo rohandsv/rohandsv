@@ -4,11 +4,7 @@
 
 ### Full Stack Developer | Enterprise Integration Specialist | Zoho & Salla Expert
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohandsv&color=blueviolet&style=for-the-badge)
 
 </div>
 
