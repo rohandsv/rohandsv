@@ -91,15 +91,6 @@ I'm a passionate **Full Stack Developer** specializing in **enterprise integrati
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohandsv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohandsv&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohandsv&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
 
 ---
 
@@ -134,16 +125,9 @@ I'm always interested in collaborating on interesting projects, especially those
 
 <div align="center">
 
-**Feel free to reach out for collaborations, consulting, or just a tech chat!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL)
-
----
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
